@@ -28,7 +28,7 @@ namespace MyApp1.Models
 
         [Required(ErrorMessage = "Please confirm Your Password")]
         [DataType(DataType.Password)]
-        public int ConfirmPassword { get;set; }
+        public string ConfirmPassword { get;set; }
 
     }
 }
