@@ -1,0 +1,21 @@
+﻿@model MyApp1.Models.UserAccount
+@{
+    ViewData["Title"] = "Profile";
+}
+
+<h2>My Profile</h2>
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-success">@TempData["Message"]</div>
+}
+
+<table class="table table-bordered">
+    <tr><th>First Name</th><td>@Model.FirstName</td></tr>
+    <tr><th>Last Name</th><td>@Model.LastName</td></tr>
+    <tr><th>User Name</th><td>@Model.UserName</td></tr>
+    <tr><th>Email</th><td>@Model.Email</td></tr>
+    <tr><th>Role</th><td>@Model.Role</td></tr>
+</table>
+
+<a asp-action="EditProfile" class="btn btn-primary">Edit Profile</a>

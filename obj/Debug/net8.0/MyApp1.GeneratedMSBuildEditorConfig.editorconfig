@@ -17,161 +17,161 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyApp1
 build_property.RootNamespace = MyApp1
-build_property.ProjectDir = D:\New folder\MyApp\CrudusingMvc\
+build_property.ProjectDir = D:\CrudusingMvc\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\New folder\MyApp\CrudusingMvc
+build_property.MSBuildProjectDirectory = D:\CrudusingMvc
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/New folder/MyApp/CrudusingMvc/Views/Account/EditProfile.cshtml]
+[D:/CrudusingMvc/Views/Account/EditProfile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxFZGl0UHJvZmlsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/New folder/MyApp/CrudusingMvc/Views/Account/Index.cshtml]
+[D:/CrudusingMvc/Views/Account/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/New folder/MyApp/CrudusingMvc/Views/Account/Login.cshtml]
+[D:/CrudusingMvc/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/New folder/MyApp/CrudusingMvc/Views/Account/Profile.cshtml]
+[D:/CrudusingMvc/Views/Account/Profile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxQcm9maWxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/New folder/MyApp/CrudusingMvc/Views/Account/Registration.cshtml]
+[D:/CrudusingMvc/Views/Account/Registration.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3RyYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/New folder/MyApp/CrudusingMvc/Views/Account/SecurePage.cshtml]
+[D:/CrudusingMvc/Views/Account/SecurePage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxTZWN1cmVQYWdlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/New folder/MyApp/CrudusingMvc/Views/Categories/Create.cshtml]
+[D:/CrudusingMvc/Views/Categories/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/New folder/MyApp/CrudusingMvc/Views/Categories/Delete.cshtml]
+[D:/CrudusingMvc/Views/Categories/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/New folder/MyApp/CrudusingMvc/Views/Categories/Details.cshtml]
+[D:/CrudusingMvc/Views/Categories/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/New folder/MyApp/CrudusingMvc/Views/Categories/Edit.cshtml]
+[D:/CrudusingMvc/Views/Categories/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/New folder/MyApp/CrudusingMvc/Views/Categories/Index.cshtml]
+[D:/CrudusingMvc/Views/Categories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/New folder/MyApp/CrudusingMvc/Views/Clients/Create.cshtml]
+[D:/CrudusingMvc/Views/Clients/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/New folder/MyApp/CrudusingMvc/Views/Clients/Delete.cshtml]
+[D:/CrudusingMvc/Views/Clients/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/New folder/MyApp/CrudusingMvc/Views/Clients/Details.cshtml]
+[D:/CrudusingMvc/Views/Clients/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/New folder/MyApp/CrudusingMvc/Views/Clients/Edit.cshtml]
+[D:/CrudusingMvc/Views/Clients/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/New folder/MyApp/CrudusingMvc/Views/Clients/Index.cshtml]
+[D:/CrudusingMvc/Views/Clients/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/New folder/MyApp/CrudusingMvc/Views/Home/Index.cshtml]
+[D:/CrudusingMvc/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/New folder/MyApp/CrudusingMvc/Views/Home/Privacy.cshtml]
+[D:/CrudusingMvc/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/New folder/MyApp/CrudusingMvc/Views/ItemClients/Create.cshtml]
+[D:/CrudusingMvc/Views/ItemClients/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbUNsaWVudHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/New folder/MyApp/CrudusingMvc/Views/ItemClients/Delete.cshtml]
+[D:/CrudusingMvc/Views/ItemClients/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbUNsaWVudHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/New folder/MyApp/CrudusingMvc/Views/ItemClients/Details.cshtml]
+[D:/CrudusingMvc/Views/ItemClients/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbUNsaWVudHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/New folder/MyApp/CrudusingMvc/Views/ItemClients/Edit.cshtml]
+[D:/CrudusingMvc/Views/ItemClients/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbUNsaWVudHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/New folder/MyApp/CrudusingMvc/Views/ItemClients/Index.cshtml]
+[D:/CrudusingMvc/Views/ItemClients/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbUNsaWVudHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/New folder/MyApp/CrudusingMvc/Views/Items/Create.cshtml]
+[D:/CrudusingMvc/Views/Items/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/New folder/MyApp/CrudusingMvc/Views/Items/Delete.cshtml]
+[D:/CrudusingMvc/Views/Items/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/New folder/MyApp/CrudusingMvc/Views/Items/Edit.cshtml]
+[D:/CrudusingMvc/Views/Items/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/New folder/MyApp/CrudusingMvc/Views/Items/Index.cshtml]
+[D:/CrudusingMvc/Views/Items/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/New folder/MyApp/CrudusingMvc/Views/SerialNumbers/Create.cshtml]
+[D:/CrudusingMvc/Views/SerialNumbers/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VyaWFsTnVtYmVyc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/New folder/MyApp/CrudusingMvc/Views/SerialNumbers/Delete.cshtml]
+[D:/CrudusingMvc/Views/SerialNumbers/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VyaWFsTnVtYmVyc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/New folder/MyApp/CrudusingMvc/Views/SerialNumbers/Details.cshtml]
+[D:/CrudusingMvc/Views/SerialNumbers/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VyaWFsTnVtYmVyc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/New folder/MyApp/CrudusingMvc/Views/SerialNumbers/Edit.cshtml]
+[D:/CrudusingMvc/Views/SerialNumbers/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VyaWFsTnVtYmVyc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/New folder/MyApp/CrudusingMvc/Views/SerialNumbers/Index.cshtml]
+[D:/CrudusingMvc/Views/SerialNumbers/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VyaWFsTnVtYmVyc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/New folder/MyApp/CrudusingMvc/Views/Shared/_LoginPartial.cshtml]
+[D:/CrudusingMvc/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/New folder/MyApp/CrudusingMvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/CrudusingMvc/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/New folder/MyApp/CrudusingMvc/Views/_ViewImports.cshtml]
+[D:/CrudusingMvc/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/New folder/MyApp/CrudusingMvc/Views/_ViewStart.cshtml]
+[D:/CrudusingMvc/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/New folder/MyApp/CrudusingMvc/Views/Shared/_Layout.cshtml]
+[D:/CrudusingMvc/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ul4djddtm9

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "djKY5jiq074=",
+  "dgSpecHash": "zWlJe8V6Rik=",
   "success": true,
-  "projectFilePath": "D:\\New folder\\MyApp\\CrudusingMvc\\MyApp1.csproj",
+  "projectFilePath": "D:\\CrudusingMvc\\MyApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

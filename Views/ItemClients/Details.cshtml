@@ -1,0 +1,21 @@
+﻿@model MyApp1.Models.ItemClient
+
+@{
+    ViewData["Title"] = "Details ItemClient";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>ItemClient Details</h1>
+
+<div>
+    <dl class="row">
+        <dt class="col-sm-2">Item</dt>
+        <dd class="col-sm-10">@Model.Item?.Name</dd>
+
+        <dt class="col-sm-2">Client</dt>
+        <dd class="col-sm-10">@Model.Client?.Name</dd>
+    </dl>
+</div>
+
+<a asp-action="Edit" asp-route-itemId="@Model.ItemId" asp-route-clientId="@Model.ClientId" class="btn btn-warning">Edit</a>
+<a asp-action="Index" class="btn btn-secondary">Back to List</a>
