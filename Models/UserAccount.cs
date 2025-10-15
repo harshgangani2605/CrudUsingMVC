@@ -28,5 +28,7 @@ namespace MyApp1.Models
         [MaxLength(20, ErrorMessage = "Max 20 Characters allowed")]
         public string Password { get; set; }
 
+        [Required]
+        public string Role { get; set; }
     }
 }

@@ -1,0 +1,3 @@
+D:\New folder\MyApp\CrudusingMvc\wwwroot\css\clients.css
+D:\New folder\MyApp\CrudusingMvc\wwwroot\css\itemclients.css
+D:\New folder\MyApp\CrudusingMvc\wwwroot\css\serialnumbers.css

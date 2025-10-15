@@ -1,130 +1,226 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\New folder\\MyApp1\\",
+  "WorkspaceRootPath": "D:\\New folder\\MyApp\\CrudusingMvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp1\\views\\account\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:views\\account\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp1\\models\\registrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:models\\registrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp1\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp1\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp1\\views\\account\\securepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:views\\account\\securepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp1\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp1\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp1\\data\\myappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:data\\myappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp1\\models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp1\\myapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:myapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp1\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp1\\views\\items\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\views\\items\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:views\\items\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp1\\views\\items\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:views\\items\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\views\\serialnumbers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:views\\serialnumbers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp1\\models\\itemclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:models\\itemclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\views\\serialnumbers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:views\\serialnumbers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp1\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\wwwroot\\css\\account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:wwwroot\\css\\account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp1\\models\\serialnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:models\\serialnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp1\\views\\items\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:views\\items\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp1\\migrations\\20251007063348_one-one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:migrations\\20251007063348_one-one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp1\\migrations\\20251006133319_ee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:migrations\\20251006133319_ee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp1\\views\\items\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:views\\items\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp1\\migrations\\20251007073708_many-many.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:migrations\\20251007073708_many-many.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp1\\migrations\\20251007064812_one-many.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:migrations\\20251007064812_one-many.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp1\\migrations\\20251007094051_username.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:migrations\\20251007094051_username.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\views\\serialnumbers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:views\\serialnumbers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\views\\serialnumbers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:views\\serialnumbers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\views\\items\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:views\\items\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\views\\items\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:views\\items\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\views\\items\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:views\\items\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\views\\itemclients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:views\\itemclients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\views\\itemclients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:views\\itemclients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\views\\itemclients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:views\\itemclients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\views\\itemclients\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:views\\itemclients\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\views\\itemclients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:views\\itemclients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\views\\clients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:views\\clients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\views\\clients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:views\\clients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\views\\clients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:views\\clients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\views\\clients\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:views\\clients\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\views\\clients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:views\\clients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\views\\account\\securepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:views\\account\\securepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\views\\account\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:views\\account\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\models\\serialnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:models\\serialnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\models\\registrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:models\\registrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\data\\myappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:data\\myappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\controllers\\serialnumberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:controllers\\serialnumberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\controllers\\itemclientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:controllers\\itemclientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|d:\\new folder\\myapp\\crudusingmvc\\wwwroot\\css\\items.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{071B8932-8829-4BF4-B79C-A89488E3BF9B}|MyApp1.csproj|solutionrelative:wwwroot\\css\\items.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -134,413 +230,721 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Registration.cshtml",
-              "DocumentMoniker": "D:\\New folder\\MyApp1\\Views\\Account\\Registration.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Registration.cshtml",
-              "ToolTip": "D:\\New folder\\MyApp1\\Views\\Account\\Registration.cshtml",
-              "RelativeToolTip": "Views\\Account\\Registration.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-07T11:34:40.674Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\New folder\\MyApp1\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\New folder\\MyApp1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T12:56:34.003Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "D:\\New folder\\MyApp1\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "D:\\New folder\\MyApp1\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Items\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Items\\Index.cshtml",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Items\\Index.cshtml",
+              "RelativeToolTip": "Views\\Items\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-07T11:46:23.934Z",
+              "WhenOpened": "2025-10-15T06:10:10.823Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RegistrationViewModel.cs",
-              "DocumentMoniker": "D:\\New folder\\MyApp1\\Models\\RegistrationViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\RegistrationViewModel.cs",
-              "ToolTip": "D:\\New folder\\MyApp1\\Models\\RegistrationViewModel.cs",
-              "RelativeToolTip": "Models\\RegistrationViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T09:48:35.567Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T07:12:38.896Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\New folder\\MyApp1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\New folder\\MyApp1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-07T08:47:58.527Z",
+              "WhenOpened": "2025-10-15T08:54:47.979Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\New folder\\MyApp1\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
-              "ToolTip": "D:\\New folder\\MyApp1\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\SerialNumbers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\SerialNumbers\\Index.cshtml",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\SerialNumbers\\Index.cshtml",
+              "RelativeToolTip": "Views\\SerialNumbers\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-07T11:30:04.723Z",
+              "WhenOpened": "2025-10-15T09:58:59.519Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\New folder\\MyApp1\\Views\\Account\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Index.cshtml",
-              "ToolTip": "D:\\New folder\\MyApp1\\Views\\Account\\Index.cshtml",
-              "RelativeToolTip": "Views\\Account\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAIBJwAAAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\SerialNumbers\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\SerialNumbers\\Create.cshtml",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\SerialNumbers\\Create.cshtml",
+              "RelativeToolTip": "Views\\SerialNumbers\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-07T11:39:11.473Z",
+              "WhenOpened": "2025-10-15T09:58:20.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "account.css",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\wwwroot\\css\\account.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\account.css",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\wwwroot\\css\\account.css",
+              "RelativeToolTip": "wwwroot\\css\\account.css",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAYwGMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-15T07:07:50.696Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "SecurePage.cshtml",
-              "DocumentMoniker": "D:\\New folder\\MyApp1\\Views\\Account\\SecurePage.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\SecurePage.cshtml",
-              "ToolTip": "D:\\New folder\\MyApp1\\Views\\Account\\SecurePage.cshtml",
-              "RelativeToolTip": "Views\\Account\\SecurePage.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-07T11:26:15.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\New folder\\MyApp1\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "D:\\New folder\\MyApp1\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBcAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T10:28:17.714Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-15T09:59:36.85Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "D:\\New folder\\MyApp1\\Models\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\LoginViewModel.cs",
-              "ToolTip": "D:\\New folder\\MyApp1\\Models\\LoginViewModel.cs",
-              "RelativeToolTip": "Models\\LoginViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T10:23:52.781Z",
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T09:59:34.03Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "ItemsController.cs",
-              "DocumentMoniker": "D:\\New folder\\MyApp1\\Controllers\\ItemsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ItemsController.cs",
-              "ToolTip": "D:\\New folder\\MyApp1\\Controllers\\ItemsController.cs",
-              "RelativeToolTip": "Controllers\\ItemsController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAwwBYAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T12:55:51.232Z",
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T09:59:35.951Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "MyAppContext.cs",
-              "DocumentMoniker": "D:\\New folder\\MyApp1\\Data\\MyAppContext.cs",
-              "RelativeDocumentMoniker": "Data\\MyAppContext.cs",
-              "ToolTip": "D:\\New folder\\MyApp1\\Data\\MyAppContext.cs",
-              "RelativeToolTip": "Data\\MyAppContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T12:59:40.636Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "20251007094051_Username.cs",
-              "DocumentMoniker": "D:\\New folder\\MyApp1\\Migrations\\20251007094051_Username.cs",
-              "RelativeDocumentMoniker": "Migrations\\20251007094051_Username.cs",
-              "ToolTip": "D:\\New folder\\MyApp1\\Migrations\\20251007094051_Username.cs",
-              "RelativeToolTip": "Migrations\\20251007094051_Username.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T09:40:51.946Z",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\SerialNumbers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\SerialNumbers\\Edit.cshtml",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\SerialNumbers\\Edit.cshtml",
+              "RelativeToolTip": "Views\\SerialNumbers\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T09:58:50.147Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "UserAccount.cs",
-              "DocumentMoniker": "D:\\New folder\\MyApp1\\Models\\UserAccount.cs",
-              "RelativeDocumentMoniker": "Models\\UserAccount.cs",
-              "ToolTip": "D:\\New folder\\MyApp1\\Models\\UserAccount.cs",
-              "RelativeToolTip": "Models\\UserAccount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T09:19:08.847Z",
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\SerialNumbers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\SerialNumbers\\Delete.cshtml",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\SerialNumbers\\Delete.cshtml",
+              "RelativeToolTip": "Views\\SerialNumbers\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T09:58:21.675Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "MyApp1.csproj",
-              "DocumentMoniker": "D:\\New folder\\MyApp1\\MyApp1.csproj",
-              "RelativeDocumentMoniker": "MyApp1.csproj",
-              "ToolTip": "D:\\New folder\\MyApp1\\MyApp1.csproj",
-              "RelativeToolTip": "MyApp1.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-07T09:15:04.447Z",
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Items\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Items\\Delete.cshtml",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Items\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Items\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T09:58:12.703Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\New folder\\MyApp1\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "D:\\New folder\\MyApp1\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T09:10:59.088Z",
+              "WhenOpened": "2025-10-15T07:12:35.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-15T07:06:54.927Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "Item.cs",
-              "DocumentMoniker": "D:\\New folder\\MyApp1\\Models\\Item.cs",
-              "RelativeDocumentMoniker": "Models\\Item.cs",
-              "ToolTip": "D:\\New folder\\MyApp1\\Models\\Item.cs",
-              "RelativeToolTip": "Models\\Item.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T12:54:13.615Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ItemClient.cs",
-              "DocumentMoniker": "D:\\New folder\\MyApp1\\Models\\ItemClient.cs",
-              "RelativeDocumentMoniker": "Models\\ItemClient.cs",
-              "ToolTip": "D:\\New folder\\MyApp1\\Models\\ItemClient.cs",
-              "RelativeToolTip": "Models\\ItemClient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T07:22:43.379Z",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Items\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Items\\Create.cshtml",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Items\\Create.cshtml",
+              "RelativeToolTip": "Views\\Items\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T09:58:11.565Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\New folder\\MyApp1\\Views\\Items\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Items\\Index.cshtml",
-              "ToolTip": "D:\\New folder\\MyApp1\\Views\\Items\\Index.cshtml",
-              "RelativeToolTip": "Views\\Items\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\ItemClients\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\ItemClients\\Index.cshtml",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\ItemClients\\Index.cshtml",
+              "RelativeToolTip": "Views\\ItemClients\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-06T13:24:54.48Z",
+              "WhenOpened": "2025-10-15T09:58:09.495Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\New folder\\MyApp1\\Views\\Items\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Items\\Edit.cshtml",
-              "ToolTip": "D:\\New folder\\MyApp1\\Views\\Items\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Items\\Edit.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAIBJwCsAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\ItemClients\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\ItemClients\\Edit.cshtml",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\ItemClients\\Edit.cshtml",
+              "RelativeToolTip": "Views\\ItemClients\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-07T06:04:32.163Z",
+              "WhenOpened": "2025-10-15T09:58:08.095Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "20251007073708_Many-Many.cs",
-              "DocumentMoniker": "D:\\New folder\\MyApp1\\Migrations\\20251007073708_Many-Many.cs",
-              "RelativeDocumentMoniker": "Migrations\\20251007073708_Many-Many.cs",
-              "ToolTip": "D:\\New folder\\MyApp1\\Migrations\\20251007073708_Many-Many.cs",
-              "RelativeToolTip": "Migrations\\20251007073708_Many-Many.cs",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\ItemClients\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\ItemClients\\Details.cshtml",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\ItemClients\\Details.cshtml",
+              "RelativeToolTip": "Views\\ItemClients\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T07:37:08.217Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T09:58:07.143Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "Client.cs",
-              "DocumentMoniker": "D:\\New folder\\MyApp1\\Models\\Client.cs",
-              "RelativeDocumentMoniker": "Models\\Client.cs",
-              "ToolTip": "D:\\New folder\\MyApp1\\Models\\Client.cs",
-              "RelativeToolTip": "Models\\Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T07:14:32.524Z",
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\ItemClients\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\ItemClients\\Delete.cshtml",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\ItemClients\\Delete.cshtml",
+              "RelativeToolTip": "Views\\ItemClients\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T09:58:05.842Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "SerialNumber.cs",
-              "DocumentMoniker": "D:\\New folder\\MyApp1\\Models\\SerialNumber.cs",
-              "RelativeDocumentMoniker": "Models\\SerialNumber.cs",
-              "ToolTip": "D:\\New folder\\MyApp1\\Models\\SerialNumber.cs",
-              "RelativeToolTip": "Models\\SerialNumber.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T06:26:26.426Z",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\ItemClients\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\ItemClients\\Create.cshtml",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\ItemClients\\Create.cshtml",
+              "RelativeToolTip": "Views\\ItemClients\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T09:58:04.891Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\New folder\\MyApp1\\Views\\Items\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Items\\Create.cshtml",
-              "ToolTip": "D:\\New folder\\MyApp1\\Views\\Items\\Create.cshtml",
-              "RelativeToolTip": "Views\\Items\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-07T05:48:39.472Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "20251007064812_one-many.cs",
-              "DocumentMoniker": "D:\\New folder\\MyApp1\\Migrations\\20251007064812_one-many.cs",
-              "RelativeDocumentMoniker": "Migrations\\20251007064812_one-many.cs",
-              "ToolTip": "D:\\New folder\\MyApp1\\Migrations\\20251007064812_one-many.cs",
-              "RelativeToolTip": "Migrations\\20251007064812_one-many.cs",
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T06:48:12.703Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T09:58:02.226Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\New folder\\MyApp1\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Models\\Category.cs",
-              "ToolTip": "D:\\New folder\\MyApp1\\Models\\Category.cs",
-              "RelativeToolTip": "Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T06:43:37.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "20251007063348_one-one.cs",
-              "DocumentMoniker": "D:\\New folder\\MyApp1\\Migrations\\20251007063348_one-one.cs",
-              "RelativeDocumentMoniker": "Migrations\\20251007063348_one-one.cs",
-              "ToolTip": "D:\\New folder\\MyApp1\\Migrations\\20251007063348_one-one.cs",
-              "RelativeToolTip": "Migrations\\20251007063348_one-one.cs",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T06:33:48.979Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T09:58:01.326Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "20251006133319_ee.cs",
-              "DocumentMoniker": "D:\\New folder\\MyApp1\\Migrations\\20251006133319_ee.cs",
-              "RelativeDocumentMoniker": "Migrations\\20251006133319_ee.cs",
-              "ToolTip": "D:\\New folder\\MyApp1\\Migrations\\20251006133319_ee.cs",
-              "RelativeToolTip": "Migrations\\20251006133319_ee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T13:33:20.654Z",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Clients\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clients\\Edit.cshtml",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Clients\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Clients\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T09:57:57.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Items\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Items\\Edit.cshtml",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Items\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Items\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T06:31:11.457Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\New folder\\MyApp1\\Views\\Items\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Items\\Delete.cshtml",
-              "ToolTip": "D:\\New folder\\MyApp1\\Views\\Items\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Items\\Delete.cshtml",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Clients\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clients\\Details.cshtml",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Clients\\Details.cshtml",
+              "RelativeToolTip": "Views\\Clients\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-07T06:13:35.808Z",
+              "WhenOpened": "2025-10-15T09:57:56.583Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\New folder\\MyApp1\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "D:\\New folder\\MyApp1\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAABRwB8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T06:05:24.581Z",
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Clients\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clients\\Delete.cshtml",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Clients\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Clients\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T09:57:55.472Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\New folder\\MyApp1\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\New folder\\MyApp1\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-06T12:56:36.881Z",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Clients\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clients\\Create.cshtml",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Clients\\Create.cshtml",
+              "RelativeToolTip": "Views\\Clients\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T09:57:53.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Index.cshtml",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T09:57:51.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Edit.cshtml",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T09:57:37.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Details.cshtml",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Categories\\Details.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T09:57:36.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Delete.cshtml",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T09:57:35.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Create.cshtml",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T09:57:33.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SecurePage.cshtml",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Account\\SecurePage.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\SecurePage.cshtml",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Account\\SecurePage.cshtml",
+              "RelativeToolTip": "Views\\Account\\SecurePage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T09:57:27.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Clients\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clients\\Index.cshtml",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Clients\\Index.cshtml",
+              "RelativeToolTip": "Views\\Clients\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T06:31:07.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T09:57:21.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RegistrationViewModel.cs",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Models\\RegistrationViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\RegistrationViewModel.cs",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Models\\RegistrationViewModel.cs",
+              "RelativeToolTip": "Models\\RegistrationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:56:54.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginViewModel.cs",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:56:52.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:56:51.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Models\\Client.cs",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Models\\Client.cs",
+              "RelativeToolTip": "Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:56:50.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MyAppContext.cs",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Data\\MyAppContext.cs",
+              "RelativeDocumentMoniker": "Data\\MyAppContext.cs",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Data\\MyAppContext.cs",
+              "RelativeToolTip": "Data\\MyAppContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T05:50:30.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SerialNumber.cs",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Models\\SerialNumber.cs",
+              "RelativeDocumentMoniker": "Models\\SerialNumber.cs",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Models\\SerialNumber.cs",
+              "RelativeToolTip": "Models\\SerialNumber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T05:51:47.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UserAccount.cs",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Models\\UserAccount.cs",
+              "RelativeDocumentMoniker": "Models\\UserAccount.cs",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Models\\UserAccount.cs",
+              "RelativeToolTip": "Models\\UserAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T05:51:04.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EditProfile.cshtml",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Account\\EditProfile.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\EditProfile.cshtml",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Account\\EditProfile.cshtml",
+              "RelativeToolTip": "Views\\Account\\EditProfile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T05:33:32.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Account\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Profile.cshtml",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Account\\Profile.cshtml",
+              "RelativeToolTip": "Views\\Account\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T05:30:02.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ItemClientsController.cs",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Controllers\\ItemClientsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ItemClientsController.cs",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Controllers\\ItemClientsController.cs",
+              "RelativeToolTip": "Controllers\\ItemClientsController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwFUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:50:53.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Index.cshtml",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "Views\\Account\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T06:16:10.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:50:45.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientsController.cs",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "Controllers\\ClientsController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAuwH8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:50:07.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T05:34:03.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAAwIQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T06:30:39.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "Models\\Item.cs",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Models\\Item.cs",
+              "RelativeToolTip": "Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T06:45:08.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ItemsController.cs",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "Controllers\\ItemsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T06:02:37.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T06:30:32.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "SerialNumbersController.cs",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\Controllers\\SerialNumbersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SerialNumbersController.cs",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\Controllers\\SerialNumbersController.cs",
+              "RelativeToolTip": "Controllers\\SerialNumbersController.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAuwLwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T06:57:28.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "items.css",
+              "DocumentMoniker": "D:\\New folder\\MyApp\\CrudusingMvc\\wwwroot\\css\\items.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\items.css",
+              "ToolTip": "D:\\New folder\\MyApp\\CrudusingMvc\\wwwroot\\css\\items.css",
+              "RelativeToolTip": "wwwroot\\css\\items.css",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-15T07:08:16.957Z",
               "EditorCaption": ""
             }
           ]
